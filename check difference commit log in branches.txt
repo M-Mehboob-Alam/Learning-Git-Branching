@@ -2,5 +2,15 @@ git log login..master
 
 
 result:
-git log login..master
-* master 98c43b2 check branch list
+ git log master..login
+commit 7e8f425d574ee1196e9502753b1b425431d05aaf (HEAD -> login)
+Author: Mehboob Alam <mehboobalam.dev@gmail.com>
+Date:   Mon Sep 18 21:59:23 2023 +0500
+
+    check commit difference in branches
+
+commit f508981dd9fda0e448bba85cb2a91b7901efcf9d
+Author: Mehboob Alam <mehboobalam.dev@gmail.com>
+Date:   Mon Sep 18 21:56:35 2023 +0500
+
+    create new file in login branch
