@@ -1,0 +1,9 @@
+git checkout login
+
+
+result:
+git checkout login
+
+git branch
+*  login
+ master
