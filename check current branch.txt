@@ -1,6 +1,6 @@
-git branch
+git branch -v
 
 
 result:
-git branch
-* master
+git branch -v
+* master 98c43b2 check branch list

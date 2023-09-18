@@ -1,0 +1,6 @@
+git branch
+
+
+result:
+git branch
+* master
