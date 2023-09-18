@@ -1,0 +1,1 @@
+register user with name, email and password
