@@ -1,0 +1,8 @@
+git status
+
+
+result:
+ git status
+On branch master
+
+No commits yet
