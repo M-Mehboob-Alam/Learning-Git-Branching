@@ -1,8 +1,6 @@
-git status
+git branch
 
 
 result:
- git status
-On branch master
-
-No commits yet
+git branch
+* master
