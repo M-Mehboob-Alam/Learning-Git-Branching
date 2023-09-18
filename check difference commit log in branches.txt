@@ -1,0 +1,6 @@
+git log login..master
+
+
+result:
+git log login..master
+* master 98c43b2 check branch list
